@@ -1,0 +1,10 @@
+- 用 electron 打包
+- settings 按算法分栏
+- debug + 优化 + 禁手 + 机机对战
+	- checkWinAtPoint() in home.js
+	- 评估函数 https://github.com/lihongxun945/myblog/issues/13
+	- https://www.v2ex.com/t/467836
+	- https://github.com/lihongxun945/myblog/issues/16
+	- https://github.com/lihongxun945/myblog/issues/18
+	- https://github.com/lihongxun945/myblog/issues/19
+- 发布到 github

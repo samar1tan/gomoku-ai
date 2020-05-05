@@ -6,5 +6,5 @@ https://samaritan.cn/gomoku/index.html#/
 
 ## Thanks
 - https://github.com/lihongxun945/gobang
-- https://github.com/Kesoyuh/Gomoku/tree/master/Gomoku/model
+- https://github.com/Kesoyuh/Gomoku
 - https://blog.csdn.net/onezeros/article/details/5542379

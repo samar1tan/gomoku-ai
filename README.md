@@ -1,4 +1,4 @@
-# ai-gomoku
+# gomoku-ai
 Gomoku, Human vs. Computer, which is powered by "AI" (Minimax / Greedy Algorithm)
 
 ## Play Online

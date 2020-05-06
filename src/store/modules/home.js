@@ -12,7 +12,7 @@ import * as status from '@/status'
 
 const state = {
   algorithm: 'greedy',
-  lang: 'en',
+  lang: 'zh',
   deep: 8,
   showSteps: true,
   spread: true,
